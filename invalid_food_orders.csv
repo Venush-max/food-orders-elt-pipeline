@@ -1,0 +1,1 @@
+row_id,Order ID,Customer ID,Restaurant ID,Order Date and Time,Delivery Date and Time,Order Value,Delivery Fee,Payment Method,Discounts and Offers,Commission Fee,Payment Processing Fee,Refunds/Chargebacks,Weather Condition,Order Channel,Delivery_Time_Minutes,Platform_Net_Revenue,invalid_reason,is_valid_record

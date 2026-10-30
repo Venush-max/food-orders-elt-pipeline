@@ -1,0 +1,50 @@
+FOOD ORDERS DATA VALIDATION REPORT
+=============================================
+
+Total Records: 1000
+Missing Values: 392
+Duplicate Records: 0
+Datetime Types Valid: True
+Financial Types Valid: True
+Delivery Duration Type Valid: True
+Delivery Calculation Mismatches: 0
+Negative Delivery Durations: 0
+Revenue Calculation Mismatches: 0
+Rejected Records: 0
+Valid Records: 1000
+Financially Incomplete Records: 172
+
+COLUMN-WISE MISSING VALUE REPORT
+=============================================
+row_id: 0
+Order ID: 0
+Customer ID: 0
+Restaurant ID: 0
+Order Date and Time: 0
+Delivery Date and Time: 0
+Order Value: 40
+Delivery Fee: 50
+Payment Method: 0
+Discounts and Offers: 0
+Commission Fee: 40
+Payment Processing Fee: 50
+Refunds/Chargebacks: 40
+Weather Condition: 0
+Order Channel: 0
+Delivery_Time_Minutes: 0
+Platform_Net_Revenue: 172
+invalid_reason: 0
+is_valid_record: 0
+
+VALIDATION STATUS
+=============================================
+Duplicate check: PASS
+Datetime type check: PASS
+Financial type check: PASS
+Delivery duration type check: PASS
+Delivery calculation check: PASS
+Negative duration check: PASS
+Revenue calculation check: PASS
+Rejected records check: PASS
+
+OVERALL STATUS: PASS

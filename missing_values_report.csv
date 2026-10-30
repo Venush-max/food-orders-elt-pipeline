@@ -1,0 +1,20 @@
+Column,Missing_Count
+row_id,0
+Order ID,0
+Customer ID,0
+Restaurant ID,0
+Order Date and Time,0
+Delivery Date and Time,0
+Order Value,40
+Delivery Fee,50
+Payment Method,0
+Discounts and Offers,0
+Commission Fee,40
+Payment Processing Fee,50
+Refunds/Chargebacks,40
+Weather Condition,0
+Order Channel,0
+Delivery_Time_Minutes,0
+Platform_Net_Revenue,172
+invalid_reason,0
+is_valid_record,0
